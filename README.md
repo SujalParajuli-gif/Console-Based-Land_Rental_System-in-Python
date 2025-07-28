@@ -13,7 +13,7 @@ Core Functionalities:
     - Displays detailed billing information in the console.
     - Automatically generates formatted text invoices (.txt) summarizing rental and fine details for record-keeping.
      
-##Project Report
+## Project Report
 
 📄 [View Full Report (PDF)](./Documentation/Land_Rental_Report_SujalParajuli.pdf)  
 Contains code walkthrough, billing logic, fine system, and output examples.
