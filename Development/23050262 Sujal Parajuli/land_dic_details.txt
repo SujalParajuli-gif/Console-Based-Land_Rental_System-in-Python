@@ -1,0 +1,9 @@
+Kitta     |  	City              |   	Direction        |  	Anna    |  	Price       |	Availability |
+-----------------------------------------------------------------------------------------------------------------------
+1		Bhairahawa		South			3		90000			Available
+2		Kathmandu 		West			4		100000			NotAvailable
+3		Bhaktapur		South		 	5		80000			Available
+4		Dillibazar 		East			6		120000		Available
+5		Lalitpur 		North			7		50000			Available
+6		Dharan			West			8		30000			Not Available
+7		Itahari			East			9		60000			Not Available
